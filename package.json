@@ -1,0 +1,30 @@
+{
+  "name": "googleapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadino-info/googleAPI.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "clear",
+    "youtube"
+  ],
+  "author": "mitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadino-info/googleAPI/issues"
+  },
+  "homepage": "https://github.com/kadino-info/googleAPI#readme",
+  "dependencies": {
+    "google-auth-library": "^9.0.0",
+    "googleapis": "^123.0.0"
+  }
+}
